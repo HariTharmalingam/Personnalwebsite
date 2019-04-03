@@ -1,0 +1,111 @@
+{
+    "main": {
+        "name": "Harishanth Tharmalingam",
+        "occupation": "étudiant en 2ème année de Web & Digital",
+        "description": "I am 2 online courses away from finishing my ",
+        "school": "MyDigitalSchool",
+        "degree": "Bachelors in Computer Science with a Software Engineering Specialty",
+        "image": "profile_pic.jpg",
+        "bio": "Je suis passionné par le développement web/mobile et l'entreprenariat. Mon projet professionnel est de créer des applications regroupant voyages/tourisme et réseaux sociaux. J'aimerais voyager en faisant de l'humanitaire et découvrir toutes les cultures.",
+        "contactmessage": "Si vous avec un projet pour moi, n'hésitez pas à entrer en contact avec moi en m'envoyant un mail.",
+        "email": "contact@harishanth-tharmalingam.com",
+        "phone": "+33 7 83 66 32 63",
+        "address": {
+            "street": "64 66 Rue du Colonel de Rochebrune",
+            "city": "Garches",
+            "state": "France",
+            "zip": "92380"
+        },
+        "website": "http://www.harishanth-tharmalingam.com",
+        "resumedownload": "CV Harishanth THARMALINGAM.pdf",
+        "social": [{
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/harishanth-tharmalingam/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/HariTharmalingam",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Je suis toujours à la recherche de nouvelles technologies par soif de connaissance et de plaisir, voici mes principales technologies utilisées.",
+        "education": [{
+                "school": "Mydigitalschool",
+                "degree": "Expert en systèmes d'information",
+                "graduated": "Prévu en 2022",
+                "description": "Enseignement de la suite Adobe, de langages de programmations, cours de vidéo, de marketing, de design et de tout ce qui tourne autour du web en général."
+            },
+            {
+                "school": "Université Paris X - Nanterre",
+                "degree": "Licence math et informatique",
+                "graduated": "2013 - 2015",
+                "description": "Le master Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) de l’Université Université Paris Nanterre est une formation pluridisciplinaire en informatique ayant pour objectif de former des cadres supérieurs spécialisés dans l’ingénierie des systèmes d’information et dans l’aide à la décision des entreprises."
+            }
+        ],
+        "work": [{
+            "company": "Myve",
+            "title": "Stage Développeur Web",
+            "years": "Mars 2018 - Juin 2018",
+            "description": "Myve est une start-up qui propose des missions de freelance aux étudiants. \nJ'étais en charge: \n- De la création d'un chatbot \n- De la création de scripts pour récupérer des données \n- De régler les erreurs du site codé en Django.\n Grâce à ce stage, j'ai acquis des compétences en développement web et en growth hacking."
+        }],
+        "skills": [{
+                "name": "Git",
+                "image": "git.jpg"
+            },
+            {
+                "name": "Java",
+                "image": "java.jpg"
+            },
+            {
+                "name": "React Js",
+                "image": "react.jpg"
+            },
+            {
+                "name": "Jquery",
+                "image": "jquery.png"
+            },
+
+            {
+                "name": "React Native",
+                "image": "reactnative.jpg"
+            },
+            {
+                "name": "Bootstrap",
+                "image": "bootstrap.jpg"
+            },
+            {
+                "name": "Javascript",
+                "image": "javascript.png"
+            },
+            {
+                "name": "MySQL",
+                "image": "mysql.jpg"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "MyBarber",
+                "category": "Service de coiffeur et barbier à domicile pour hommes",
+                "image": "mybarber-logo.png",
+                "url": "http://www.mybarberfrance.com",
+                "target": "_blank"
+            },
+            {
+                "title": "Jason Marinho",
+                "category": "Site perso Webdesigner",
+                "image": "jasonmarinho-logo.png",
+                "url": "https://jasonmarinho.com/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+            "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+            "user": "Alastair Beaumont - Web Developer at AppColony"
+        }]
+    }
+}
